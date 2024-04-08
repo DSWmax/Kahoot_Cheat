@@ -1,5 +1,5 @@
 #Email
-email = ""
+email = "delmar.green@usd382.com"
 
 #Password
-password = ""
+password = "gre23637"
